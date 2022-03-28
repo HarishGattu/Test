@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-02T15:37:44 IST" name="Default suite" finished-at="2022-03-02T15:37:55 IST" duration-ms="11343">
+    <groups>
+    </groups>
+    <test started-at="2022-03-02T15:37:44 IST" name="Default test" finished-at="2022-03-02T15:37:55 IST" duration-ms="11343">
+      <class name="alerts.TC_alerts">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:alerts.TC_alerts@5fdcaa40]" started-at="2022-03-02T15:37:44 IST" name="openbrowser" finished-at="2022-03-02T15:37:50 IST" duration-ms="6549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="logindetails()[pri:0, instance:alerts.TC_alerts@5fdcaa40]" started-at="2022-03-02T15:37:50 IST" name="logindetails" finished-at="2022-03-02T15:37:55 IST" duration-ms="4506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindetails -->
+        <test-method is-config="true" signature="logoutdetails()[pri:0, instance:alerts.TC_alerts@5fdcaa40]" started-at="2022-03-02T15:37:55 IST" name="logoutdetails" finished-at="2022-03-02T15:37:55 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutdetails -->
+      </class> <!-- alerts.TC_alerts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
